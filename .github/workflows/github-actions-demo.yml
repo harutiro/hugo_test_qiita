@@ -1,0 +1,35 @@
+name: Deploy Sakura Server
+
+on:
+  push:
+    branches:
+      - main  # masterブランチが更新された時に発火させる
+
+jobs:
+  deploy:
+    name: deploy
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.102.3'  # コンパイルに使用するHugoのバージョンを指定
+
+      - name: Build
+        run: hugo --minify  # 実際にHugoでコンパイルする(--minifyはファイルを圧縮するオプション)
+
+      - name: git commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: harutiro
+          author_email: harutiro2027@outlook.jp
+          new_branch: web_public
+          message: 'hogehoge'
+          add: '* --force' 
+          push: origin web_public --force
