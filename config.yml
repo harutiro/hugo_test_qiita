@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://test-esa.harutiro.net/"
 languageCode: ja
 title: My New Hugo Site
 theme: hugo-theme-stack

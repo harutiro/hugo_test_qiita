@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://test-esa.harutiro.net/</loc>
     <lastmod>2022-12-29T10:10:43+09:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://test-esa.harutiro.net/post/</loc>
     <lastmod>2022-12-29T10:10:43+09:00</lastmod>
   </url><url>
-    <loc>/post/second/</loc>
+    <loc>https://test-esa.harutiro.net/post/second/</loc>
     <lastmod>2022-12-29T10:10:43+09:00</lastmod>
   </url><url>
-    <loc>/post/first/</loc>
+    <loc>https://test-esa.harutiro.net/post/first/</loc>
     <lastmod>2022-12-23T10:49:46+09:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://test-esa.harutiro.net/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://test-esa.harutiro.net/tags/</loc>
   </url>
 </urlset>
