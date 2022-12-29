@@ -3,7 +3,7 @@ name: Deploy Sakura Server
 on:
   push:
     branches:
-      - main  # masterブランチが更新された時に発火させる
+      - master  # masterブランチが更新された時に発火させる
 
 jobs:
   deploy:
