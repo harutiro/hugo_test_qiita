@@ -1,30 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>My New Hugo Site</title>
-        <link>https://harutiro.github.io/hugo_test_qiita/</link>
-        <description>Recent content on My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ja</language>
-        <lastBuildDate>Thu, 29 Dec 2022 10:10:43 +0900</lastBuildDate><atom:link href="https://harutiro.github.io/hugo_test_qiita/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Second</title>
-        <link>https://harutiro.github.io/hugo_test_qiita/post/second/</link>
-        <pubDate>Thu, 29 Dec 2022 10:10:43 +0900</pubDate>
-        
-        <guid>https://harutiro.github.io/hugo_test_qiita/post/second/</guid>
-        <description>&lt;h1 id=&#34;hogehoge&#34;&gt;hogehoge&lt;/h1&gt;
-</description>
-        </item>
-        <item>
-        <title>First</title>
-        <link>https://harutiro.github.io/hugo_test_qiita/post/first/</link>
-        <pubDate>Fri, 23 Dec 2022 10:49:46 +0900</pubDate>
-        
-        <guid>https://harutiro.github.io/hugo_test_qiita/post/first/</guid>
-        <description>&lt;h1 id=&#34;最初の書き込みです&#34;&gt;最初の書き込みです&lt;/h1&gt;
-&lt;p&gt;ここから僕だけのウェブサイトが生まれます。&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://harutiro.github.io/hugo_test_qiita/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 29 Dec 2022 10:10:43 +0900</lastBuildDate><atom:link href="https://harutiro.github.io/hugo_test_qiita/index.xml" rel="self" type="application/rss+xml"/><item><title>Second</title><link>https://harutiro.github.io/hugo_test_qiita/post/second/</link><pubDate>Thu, 29 Dec 2022 10:10:43 +0900</pubDate><guid>https://harutiro.github.io/hugo_test_qiita/post/second/</guid><description>&lt;h1 id="hogehoge">hogehoge&lt;/h1></description></item><item><title>First</title><link>https://harutiro.github.io/hugo_test_qiita/post/first/</link><pubDate>Fri, 23 Dec 2022 10:49:46 +0900</pubDate><guid>https://harutiro.github.io/hugo_test_qiita/post/first/</guid><description>&lt;h1 id="最初の書き込みです">最初の書き込みです&lt;/h1>
+&lt;p>ここから僕だけのウェブサイトが生まれます。&lt;/p></description></item><item><title>test</title><link>https://harutiro.github.io/hugo_test_qiita/post/193.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harutiro.github.io/hugo_test_qiita/post/193.html/</guid><description>&lt;p>テストで作ったやつ&lt;/p></description></item><item><title>テスト2</title><link>https://harutiro.github.io/hugo_test_qiita/post/194.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harutiro.github.io/hugo_test_qiita/post/194.html/</guid><description>&lt;p>hogehogeだよ
+piyopiyoだよ
+ふがふが&lt;/p></description></item></channel></rss>
