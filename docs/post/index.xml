@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on My New Hugo Site</title>
-        <link>https://test-esa.harutiro.net/post/</link>
+        <link>https://harutiro.github.io/hugo_test_qiita/post/</link>
         <description>Recent content in Posts on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Thu, 29 Dec 2022 10:10:43 +0900</lastBuildDate><atom:link href="https://test-esa.harutiro.net/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Dec 2022 10:10:43 +0900</lastBuildDate><atom:link href="https://harutiro.github.io/hugo_test_qiita/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Second</title>
-        <link>https://test-esa.harutiro.net/post/second/</link>
+        <link>https://harutiro.github.io/hugo_test_qiita/post/second/</link>
         <pubDate>Thu, 29 Dec 2022 10:10:43 +0900</pubDate>
         
-        <guid>https://test-esa.harutiro.net/post/second/</guid>
+        <guid>https://harutiro.github.io/hugo_test_qiita/post/second/</guid>
         <description>&lt;h1 id=&#34;hogehoge&#34;&gt;hogehoge&lt;/h1&gt;
 </description>
         </item>
         <item>
         <title>First</title>
-        <link>https://test-esa.harutiro.net/post/first/</link>
+        <link>https://harutiro.github.io/hugo_test_qiita/post/first/</link>
         <pubDate>Fri, 23 Dec 2022 10:49:46 +0900</pubDate>
         
-        <guid>https://test-esa.harutiro.net/post/first/</guid>
+        <guid>https://harutiro.github.io/hugo_test_qiita/post/first/</guid>
         <description>&lt;h1 id=&#34;最初の書き込みです&#34;&gt;最初の書き込みです&lt;/h1&gt;
 &lt;p&gt;ここから僕だけのウェブサイトが生まれます。&lt;/p&gt;
 </description>

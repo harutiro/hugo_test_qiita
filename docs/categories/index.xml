@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on My New Hugo Site</title>
-        <link>https://test-esa.harutiro.net/categories/</link>
+        <link>https://harutiro.github.io/hugo_test_qiita/categories/</link>
         <description>Recent content in Categories on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja</language><atom:link href="https://test-esa.harutiro.net/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>ja</language><atom:link href="https://harutiro.github.io/hugo_test_qiita/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
