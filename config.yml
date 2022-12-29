@@ -1,0 +1,12 @@
+baseURL: ""
+languageCode: ja
+title: My New Hugo Site
+theme: hugo-theme-stack
+
+menu:
+    main:
+      - identifier: home
+        name: Home
+        url: /
+        params:
+          icon: home
